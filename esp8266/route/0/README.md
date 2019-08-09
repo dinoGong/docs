@@ -4,6 +4,10 @@
 
 https://github.com/dinoGong/docs/raw/master/esp8266/route/0/flash_download_tools_v3.6.6.zip
 
+或者
+
+https://github.com/dinoGong/docs/raw/master/esp8266/route/0/ESP8266Flasher.exe
+
 下载固件：
 
 https://github.com/dinoGong/docs/raw/master/esp8266/route/0/0x00000.bin
